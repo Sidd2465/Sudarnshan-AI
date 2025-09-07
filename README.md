@@ -16,11 +16,6 @@ Smart AI that Helps you summarizing your Legal documents in simple terms
 - **Session Management:** Keeps track of uploaded documents, summaries, and chat history during your session.
 - **Clear/Reset Option:** Easily reset the app to upload new documents and start fresh.
 
----
-
-## Demo
-
-![Demo GIF or Screenshot](https://drive.google.com/file/d/1ka8oP58faW8QqYffZTx2WIuwjbRre9Z_/view?usp=sharing)
 
 ---
 
