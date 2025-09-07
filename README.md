@@ -20,7 +20,7 @@ Smart AI that Helps you summarizing your Legal documents in simple terms
 
 ## Demo
 
-![Demo GIF or Screenshot](link_to_demo_image_or_gif)
+![Demo GIF or Screenshot](https://drive.google.com/file/d/1ka8oP58faW8QqYffZTx2WIuwjbRre9Z_/view?usp=sharing)
 
 ---
 
